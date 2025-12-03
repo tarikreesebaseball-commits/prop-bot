@@ -1,0 +1,3 @@
+odds_db: "./data/odds_snapshots.db"
+boxscores_csv: "./data/boxscores.csv"
+min_ev_threshold: 0.02

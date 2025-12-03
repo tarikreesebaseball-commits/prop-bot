@@ -1,0 +1,8 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+
+# Local sqlite db
+data/odds_snapshots.db
