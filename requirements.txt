@@ -4,3 +4,4 @@ pandas
 requests
 scipy
 audioop-lts
+beautifulsoup4==4.12.3
